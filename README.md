@@ -2,8 +2,8 @@
 
 ### 👨‍💻 Developed By
 
-**Nikhil Sahu**
-**Himanshu Sekhar Sahu**
+Nikhil Sahu
+Himashu Sekhar Sahu
 ---
 
 ## 📖 Overview
@@ -24,4 +24,4 @@ Interactive healthcare dashboard
 Confidence score for predictions
 Health recommendations
 PDF report generation
-Clean and user-friendly interface
+Clean and user-friendly interface...
