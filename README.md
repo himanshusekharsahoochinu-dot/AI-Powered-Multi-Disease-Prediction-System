@@ -3,7 +3,7 @@
 ### 👨‍💻 Developed By
 
 Nikhil Sahu
-Himashu Sekhar Sahu
+Himashu Sekhar Sahoo
 ---
 
 ## 📖 Overview
